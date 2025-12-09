@@ -1,5 +1,7 @@
-package com.app.ecom;
+package com.app.ecom.services;
 
+import com.app.ecom.repositories.UserRepository;
+import com.app.ecom.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
